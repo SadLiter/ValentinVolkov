@@ -16,6 +16,11 @@
 <h2>Education</h2>
 <a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2023-2027
 
+### 👨‍🎓Additional Education
+- [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
+- Yandex: Machine Learning: 
+- Basics of algorithms and data structures by Yandex (2023)
+
 ###
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
