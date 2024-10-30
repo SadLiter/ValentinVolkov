@@ -5,12 +5,16 @@
 <div align="left">
   <p>
     Data Scientist (ML | LLM)
-
   </p>
   <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 </div>
 
 <br  />
+
+##
+
+<h2>Education</h2>
+[NUST MISIS](https://misis.ru/) | Moscow | BS | Computer Science | 2023-2027
 
 ###
 
