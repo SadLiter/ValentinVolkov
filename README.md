@@ -4,7 +4,7 @@
 
 <div align="left">
   <p>
-    Data Scientist (ML | NLP/LLM | MLOps)
+    Data Scientist (ML | LLM)
 
   </p>
   <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
