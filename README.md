@@ -23,7 +23,11 @@
 
 ### 🌍Languages
 *   English: Upper Intermediate (B2)
-*   Russian: Native    
+*   Russian: Native
+
+### 🏆Competitions
+*  IT Hackathon in Novgorod (4/32) [2024] [LLM] - 4th place. Development and implementation of AI for environmental tasks.
+*  MTS True Tech Champ (finalist) [2024] [Algorithms] - algorithm development
 
 ###
 
