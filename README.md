@@ -4,7 +4,8 @@
 
 <div align="left">
   <p>
-    With over 8 years of experience in full-stack development and blockchain technology, I specialize in creating powerful, scalable solutions across industries like e-commerce, real estate, and mobile applications. My expertise spans front-end and back-end development, decentralized applications, and smart contracts, bridging traditional software solutions seamlessly into the blockchain sphere.
+    Data Scientist (ML | NLP/LLM | MLOps)
+
   </p>
   <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
 </div>
@@ -34,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img alt="Vue" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit learn logo"  />
   <img width="12" />
 </div>
 
