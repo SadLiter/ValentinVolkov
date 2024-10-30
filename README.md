@@ -14,7 +14,7 @@
 ##
 
 <h2>Education</h2>
-<a href="https://misis.ru/" NUST MISIS> | Moscow | BS | Computer Science | 2023-2027
+<a href="https://misis.ru/">NUST MISIS</a> | Moscow | BS | Computer Science | 2023-2027
 
 ###
 
