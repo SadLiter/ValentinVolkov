@@ -21,6 +21,10 @@
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
 - Bioinformatics Institute: Fundamentals of statistics
 
+### 🌍Languages
+*   English: Upper Intermediate (B2)
+*   Russian: Native    
+
 ###
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
