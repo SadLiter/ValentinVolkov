@@ -19,7 +19,7 @@
 ### 👨‍🎓Additional Education
 - [Deep Learning School by MIPT (2024)](https://dls.samcs.ru/): 2 semesters of machine learning and neural networks (NLP)
 - [Yandex: Machine Learning](https://lyceum.yandex.ru/ml): Machine Learning algorithms
-- Basics of algorithms and data structures by Yandex (2023)
+- Bioinformatics Institute: Fundamentals of statistics
 
 ###
 
